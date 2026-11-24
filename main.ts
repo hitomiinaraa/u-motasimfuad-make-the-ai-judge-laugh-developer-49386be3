@@ -1,3 +1,4 @@
+// One excuse, one quiet database: nothing here ever argues back.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
